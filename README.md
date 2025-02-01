@@ -1,5 +1,7 @@
 # 🎰 Mason Roulette Virus - The Ultimate Gamble
-![LOGO](https://i.ibb.co/HD59kmTS/Mason-Roulette2.png)
+<p align="center">
+  <img src="https://i.ibb.co/HD59kmTS/Mason-Roulette2.png" alt="LOGO" />
+</p>
 ## 🎮 Game Screenshots & Details
 
 ### Game Start & Welcome Message
