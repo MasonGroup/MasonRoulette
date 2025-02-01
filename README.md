@@ -37,7 +37,7 @@
 Roulette Virus is a game where you play a high-stakes survival challenge. If you **lose**, the game will execute an MBR (Master Boot Record) virus that can render your system unbootable! 😈💀
 
 **Developer:** ABOLHB 🏴‍☠️  
-**Group:** Mason Group 🏛️  
+**Group:** FREEMASONRY 🏛️  
 **Language:** C# 🖥️  
 
 ---
