@@ -1,4 +1,4 @@
-# 🎰 Mason Roulette Virus
+# 🎰 MasonRouletteVirus
 <p align="center">
   <img src="https://i.ibb.co/HD59kmTS/Mason-Roulette2.png" alt="LOGO" />
 </p>
