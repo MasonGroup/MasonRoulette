@@ -8,7 +8,7 @@
 - Press **S** to begin playing.
 
 ### Gameplay - Scoring & Speed Increase
-![Gameplay](https://i.ibb.co/7JmppSFj/image.png)
+![Gameplay](https://i.ibb.co/4nQYz2JD/image.png)
 - The player starts with a smile.
 - The **score** is displayed at the top.
 - As the score increases, the game speed also increases.
