@@ -1,5 +1,31 @@
 # 🎰 Roulette Virus - The Ultimate Gamble
 
+## 🎮 Game Screenshots & Details
+
+### Game Start & Welcome Message
+![Game Start](https://i.ibb.co/7JmppSFj/image.png)
+- This screen appears when the game starts.
+- Press **S** to begin playing.
+
+### Gameplay - Scoring & Speed Increase
+![Gameplay](https://i.ibb.co/7JmppSFj/image.png)
+- The player starts with a smile.
+- The **score** is displayed at the top.
+- As the score increases, the game speed also increases.
+- If the player collides with an obstacle, they lose a heart ❤️.
+
+### First Heart Loss - Player Expression Change
+![Heart Loss](https://i.ibb.co/p6STm9JV/image.png)
+- When the player loses their first heart, their expression changes to a shocked look.
+
+### Game Over - Virus Activation
+![Game Over](https://i.ibb.co/TdFTjSS/image.png)
+- When the player loses all hearts, the **virus activates**.
+- A **GDI message** appears in the middle of the screen displaying "GAME OVER".
+- The **MBR is modified**, rendering the system unbootable.
+
+---
+
 ## ⚠️ Disclaimer
 **WARNING:** This project is for **educational purposes only**! 🚨 The creator, "ABOLHB" from the Mason Group, does **not** take any responsibility for any misuse of this code. Running this program can permanently damage your system. **DO NOT USE THIS MALICIOUSLY.**
 
@@ -8,9 +34,9 @@
 ## 🎮 About the Game
 Roulette Virus is a game where you play a high-stakes survival challenge. If you **lose**, the game will execute an MBR (Master Boot Record) virus that can render your system unbootable! 😈💀
 
-**Developer:** ABOLHB 🏴‍☠️
-**Group:** Mason Group 🏛️
-**Language:** C# 🖥️
+**Developer:** ABOLHB 🏴‍☠️  
+**Group:** Mason Group 🏛️  
+**Language:** C# 🖥️  
 
 ---
 
