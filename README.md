@@ -4,7 +4,7 @@
 </p>
 ## 🎮 Game Screenshots & Details
 
-### Game Start & Welcome Message
+## Game Start & Welcome Message
 ![Game Start](https://i.ibb.co/7JmppSFj/image.png)
 - This screen appears when the game starts.
 - Press **S** to begin playing.
