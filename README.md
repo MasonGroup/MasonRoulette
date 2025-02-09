@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://i.ibb.co/HD59kmTS/Mason-Roulette2.png" alt="LOGO" />
 </p>
-## 🎮 Game Screenshots & Details
 
 ## Game Start & Welcome Message
 ![Game Start](https://i.ibb.co/7JmppSFj/image.png)
